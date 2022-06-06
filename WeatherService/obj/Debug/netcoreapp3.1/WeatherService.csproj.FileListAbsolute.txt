@@ -1,0 +1,9 @@
+C:\Users\Asus\Documents\WebAPI\WeatherService\bin\Debug\netcoreapp3.1\WeatherService.deps.json
+C:\Users\Asus\Documents\WebAPI\WeatherService\bin\Debug\netcoreapp3.1\WeatherService.dll
+C:\Users\Asus\Documents\WebAPI\WeatherService\bin\Debug\netcoreapp3.1\WeatherService.pdb
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.AssemblyInfo.cs
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.dll
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.pdb
+C:\Users\Asus\Documents\WebAPI\WeatherService\obj\Debug\netcoreapp3.1\WeatherService.csproj.AssemblyReference.cache
